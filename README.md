@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Josueflores1
-- 👀 I’m interested in learning python.
+- 👀 I’m interested in learning more python.
 - 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: joshrod831@gmail.com
